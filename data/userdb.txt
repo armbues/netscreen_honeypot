@@ -1,0 +1,6 @@
+root:x:<<< %s(un='%s') = %u
+admin:x:<<< %s(un='%s') = %u
+netscreen:x:<<< %s(un='%s') = %u
+login:x:<<< %s(un='%s') = %u
+test:x:<<< %s(un='%s') = %u
+system:x:<<< %s(un='%s') = %u

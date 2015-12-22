@@ -1,0 +1,6 @@
+pyasn1==0.1.9
+pycrypto==2.6.1
+pyOpenSSL==0.15.1
+service-identity==14.0.0
+Twisted==15.5.0
+zope.interface==4.1.3
